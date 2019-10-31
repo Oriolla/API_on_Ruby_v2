@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="rails_api_development@localhost" uuid="7bfef9f8-81e4-44e4-aa9b-85bd2b421b7e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/rails_api_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="rails_api_test@localhost" uuid="37fee2af-f1a6-43bd-9945-135f84cd3226">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/rails_api_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="rails_api_production@localhost" uuid="a849290e-8f91-41cf-9553-3b5cf8c026da">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/rails_api_production</jdbc-url>
+    </data-source>
+  </component>
+</project>
